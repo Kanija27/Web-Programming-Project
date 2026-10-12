@@ -29,6 +29,18 @@ ResumeIQ is an AI-powered career preparation platform designed to help students 
 - Vite
 - npm
 
+## 🎓 Project Purpose
+
+This project was developed as part of a web programming course to demonstrate the use of modern frontend technologies in building a career preparation platform.
+
+## 👩‍💻 Developed By
+
+**Kanija Fathima J**
+
+Department of Computer Science and Engineering
+
+Rajalakshmi Engineering College
+
 ## 📂 Project Structure
 
 ```text
@@ -48,14 +60,3 @@ ResumeIQ/
 ├── .gitignore
 └── README.md
 
-## 🎓 Project Purpose
-
-This project was developed as part of a web programming course to demonstrate the use of modern frontend technologies in building a career preparation platform.
-
-## 👩‍💻 Developed By
-
-**Kanija Fathima J**
-
-Department of Computer Science and Engineering
-
-Rajalakshmi Engineering College
